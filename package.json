@@ -13,14 +13,18 @@
     "gatsby-plugin-sharp": "^1.6.41",
     "gatsby-remark-images": "^1.5.50",
     "gatsby-source-filesystem": "^1.5.23",
-    "gatsby-transformer-remark": "^1.7.33",
+    "gatsby-transformer-remark": "^1.7.36",
     "gatsby-transformer-sharp": "^1.6.21",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gis","geospatial","open-source","netlify","gatsby"
+    "gis",
+    "geospatial",
+    "open-source",
+    "netlify",
+    "gatsby"
   ],
   "license": "MIT",
   "main": "n/a",
