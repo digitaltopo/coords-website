@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
-  "version": "1.1.0",
-  "author": "Austin Green",
+  "name": "coordinates-website",
+  "description": "Coordinates Website",
+  "version": "1.0.0",
+  "author": "Orestis Herodotou <orestis@digitaltopo.net>",
   "dependencies": {
     "bulma": "^0.6.0",
     "gatsby": "^1.9.213",
@@ -10,7 +10,7 @@
     "gatsby-plugin-netlify-cms": "^1.0.9",
     "gatsby-plugin-react-helmet": "^2.0.5",
     "gatsby-plugin-sass": "^1.0.17",
-    "gatsby-plugin-sharp": "^1.6.34",
+    "gatsby-plugin-sharp": "^1.6.41",
     "gatsby-remark-images": "^1.5.50",
     "gatsby-source-filesystem": "^1.5.23",
     "gatsby-transformer-remark": "^1.7.33",
@@ -20,7 +20,7 @@
     "react-helmet": "^5.2.0"
   },
   "keywords": [
-    "gatsby"
+    "gis","geospatial","open-source","netlify","gatsby"
   ],
   "license": "MIT",
   "main": "n/a",
